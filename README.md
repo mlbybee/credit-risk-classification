@@ -41,19 +41,19 @@ Logistic Regression Model:
 
 * Accuracy Score (f1): 99%
   
-    ** Correctly classifies in 99% of the instances
+- Correctly classifies in 99% of the instances
   
 * Precision Score:
   
-    ** Healthey Loan (class 0): 100%
-    ** High-Risk Loan (class 1): 84%
+- Healthey Loan (class 0): 100%
+- High-Risk Loan (class 1): 84%
   
 * Recall Score:
   
-    ** Healthey Loan (class 0): 99%
-    ** High-Risk Loan (class 1): 94%
+- Healthey Loan (class 0): 99%
+- High-Risk Loan (class 1): 94%
 
-![Classification Report]((https://github.com/mlbybee/credit-risk-classification/blob/main/Resources/classification_report.png)
+![Classification Report](https://github.com/mlbybee/credit-risk-classification/blob/main/Resources/classification_report.png)
 
 Confusion Matrix: 
 * True Negative: 18,658
@@ -61,7 +61,7 @@ Confusion Matrix:
 * False Positive: 107
 * True Positive: 582
 
-![Confusion Matrix]()
+![Confusion Matrix](https://github.com/mlbybee/credit-risk-classification/blob/main/Resources/confusion_matrix.png)
 
 ## Summary:
 
