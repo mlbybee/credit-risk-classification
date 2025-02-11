@@ -38,16 +38,22 @@ The target variable distribution was analyzed using the value_counts() function,
 ## Results: 
 
 Logistic Regression Model: 
-* Accuracy Score (f1): 99% 
+
+* Accuracy Score (f1): 99%
+  
     ** Correctly classifies in 99% of the instances
-* Precision Score: 
+  
+* Precision Score:
+  
     ** Healthey Loan (class 0): 100%
     ** High-Risk Loan (class 1): 84%
-* Recall Score: 
+  
+* Recall Score:
+  
     ** Healthey Loan (class 0): 99%
     ** High-Risk Loan (class 1): 94%
 
-![Classification Report](URL_of_the_image)
+![Classification Report]((https://github.com/mlbybee/credit-risk-classification/blob/main/Resources/classification_report.png)
 
 Confusion Matrix: 
 * True Negative: 18,658
